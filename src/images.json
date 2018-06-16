@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "face1",
+    "clicked":false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Noto_Emoji_Oreo_1f600.svg/48px-Noto_Emoji_Oreo_1f600.svg.png"
+  },
+  {
+    "id": 2,
+    "name": "face2",
+    "clicked":false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Noto_Emoji_Oreo_1f601.svg/48px-Noto_Emoji_Oreo_1f601.svg.png"
+  },
+  {
+    "id": 3,
+    "name": "face3",
+    "clicked":false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Noto_Emoji_Oreo_1f602.svg/48px-Noto_Emoji_Oreo_1f602.svg.png"
+  },
+  {
+    "id": 4,
+    "name": "face4",
+    "clicked":false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Noto_Emoji_Oreo_1f603.svg/48px-Noto_Emoji_Oreo_1f603.svg.png"
+  },
+  {
+    "id": 5,
+    "name": "face5",
+    "clicked":false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Noto_Emoji_Oreo_1f604.svg/48px-Noto_Emoji_Oreo_1f604.svg.png"
+  },
+  {
+    "id": 6,
+    "name": "face6",
+    "clicked":false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Noto_Emoji_Oreo_1f606.svg/48px-Noto_Emoji_Oreo_1f606.svg.png"
+  },
+  {
+    "id": 7,
+    "name": "face7",
+    "clicked":false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Noto_Emoji_Oreo_1f609.svg/48px-Noto_Emoji_Oreo_1f609.svg.png"
+  },
+  {
+    "id": 8,
+    "name": "face8",
+    "clicked":false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Noto_Emoji_Oreo_1f60a.svg/48px-Noto_Emoji_Oreo_1f60a.svg.png"
+  },
+  {
+    "id": 9,
+    "name": "face9",
+    "clicked":false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Noto_Emoji_Oreo_1f60b.svg/48px-Noto_Emoji_Oreo_1f60b.svg.png"
+  },
+  {
+    "id": 10,
+    "name": "face10",
+    "clicked":false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Noto_Emoji_Oreo_1f60e.svg/48px-Noto_Emoji_Oreo_1f60e.svg.png"
+  },
+  {
+    "id": 11,
+    "name": "face11",
+    "clicked":false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Noto_Emoji_Oreo_1f60d.svg/48px-Noto_Emoji_Oreo_1f60d.svg.png"
+  },
+  {
+    "id": 12,
+    "name": "face12",
+    "clicked":false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Noto_Emoji_Oreo_1f618.svg/48px-Noto_Emoji_Oreo_1f618.svg.png"
+  }
+]
